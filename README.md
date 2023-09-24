@@ -17,4 +17,6 @@ YouTube Video Summarizer is a Python-based tool that allows you to generate conc
 
 **Example:**
 ```bash
-python youtube_video_summarizer.py https://www.youtube.com/watch?v=your_video_id
+python youtube_video_summarizer.py 
+
+''pip install https://github.com/shitiz12/youtube-video-summarizer.git''
